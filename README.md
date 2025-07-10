@@ -10,5 +10,7 @@ Convert `.svg` files in a directory to `.png` files in multiple sizes using [Cai
 
 ### Run
 
-`python conv.py [input dir] [output dir] {additional args, sizes etc.}`
+```
+python conv.py [input dir] [output dir] {additional args, sizes etc.}
+```
  
